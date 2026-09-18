@@ -38,7 +38,7 @@ jobs:
 
 | Input | Description | Required | Default |
 | :--- | :--- | :---: | :--- |
-| `doxynix-token` | Your secure Doxynix API key. Create one at [Doxynix Settings](https://doxynix.space). | **Yes** | — |
+| `doxynix-token` | Your secure Doxynix API key. Create one at [Doxynix Settings](https://doxynix.space/k). | **Yes** | — |
 | `branch` | The specific branch you want the AI engine to map and analyze. | No | `main` |
 | `api-url` | Custom base API endpoint (mostly used for internal testing). | No | `https://doxynix.space` |
 
